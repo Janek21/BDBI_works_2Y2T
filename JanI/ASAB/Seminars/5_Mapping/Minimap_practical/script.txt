@@ -1,0 +1,13 @@
+MT is mitochondria
+
+$minimap2 -x asm20 drosophila_MT.fasta unknown_MT.fasta > out_drosophila.paf
+
+Unknown vs drosophila
+
+do same for all
+
+select columns 10 and 11 and divide between themselves
+
+$cut -f9,10 out_*.paf
+
+
