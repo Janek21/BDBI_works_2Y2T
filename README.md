@@ -1,4 +1,4 @@
-# Bachelors degree in bioinformatics 2nd Term
+# Bachelors degree in bioinformatics 2nd Term (2nd Year)
 
 This repository is to be used for working in community in projects and assignments
 
